@@ -1,0 +1,88 @@
+Conventional metrics:
+AP: 39.45% (dog)
+AP: 70.68% (elephant)
+AP: 0.45% (lizard)
+AP: 85.45% (tiger)
+AP: 96.01% (turtle)
+mAP: 58.41%
+Conventional ops:
+math_ops            1.537e+10
+read_ops            6.163e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+
+Reset period: 0
+Event metrics:
+AP: 38.87% (dog)
+AP: 72.70% (elephant)
+AP: 0.00% (lizard)
+AP: 85.96% (tiger)
+AP: 93.73% (turtle)
+mAP: 58.25%
+Event ops:
+math_ops            7.175e+09
+read_ops            2.815e+07
+overhead_math_ops   7.598e+07
+overhead_read_ops   6.683e+07
+overhead_write_ops  6.683e+07
+
+Reset period: 1
+Event metrics:
+AP: 39.45% (dog)
+AP: 70.67% (elephant)
+AP: 0.45% (lizard)
+AP: 85.46% (tiger)
+AP: 96.01% (turtle)
+mAP: 58.41%
+Event ops:
+math_ops            1.381e+10
+read_ops            5.28e+07
+overhead_math_ops   7.632e+07
+overhead_read_ops   7.482e+07
+overhead_write_ops  7.482e+07
+
+Reset period: 2
+Event metrics:
+AP: 40.23% (dog)
+AP: 72.23% (elephant)
+AP: 0.03% (lizard)
+AP: 85.80% (tiger)
+AP: 95.94% (turtle)
+mAP: 58.85%
+Event ops:
+math_ops            1.05e+10
+read_ops            4.05e+07
+overhead_math_ops   7.614e+07
+overhead_read_ops   7.083e+07
+overhead_write_ops  7.083e+07
+
+Reset period: 4
+Event metrics:
+AP: 39.26% (dog)
+AP: 77.49% (elephant)
+AP: 0.00% (lizard)
+AP: 86.76% (tiger)
+AP: 94.28% (turtle)
+mAP: 59.56%
+Event ops:
+math_ops            8.841e+09
+read_ops            3.434e+07
+overhead_math_ops   7.606e+07
+overhead_read_ops   6.884e+07
+overhead_write_ops  6.884e+07
+
+Reset period: 8
+Event metrics:
+AP: 41.44% (dog)
+AP: 76.97% (elephant)
+AP: 0.01% (lizard)
+AP: 85.97% (tiger)
+AP: 94.35% (turtle)
+mAP: 59.75%
+Event ops:
+math_ops            8.011e+09
+read_ops            3.126e+07
+overhead_math_ops   7.602e+07
+overhead_read_ops   6.784e+07
+overhead_write_ops  6.784e+07

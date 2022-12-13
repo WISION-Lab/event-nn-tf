@@ -1,0 +1,38 @@
+Conventional metrics:
+AP: 82.37% (airplane)
+AP: 70.85% (antelope)
+AP: 57.53% (bear)
+AP: 67.74% (bicycle)
+AP: 54.59% (bird)
+AP: 57.22% (bus)
+AP: 55.35% (car)
+AP: 41.67% (cattle)
+AP: 37.61% (dog)
+AP: 41.84% (domestic_cat)
+AP: 67.90% (elephant)
+AP: 55.16% (fox)
+AP: 68.63% (giant_panda)
+AP: 80.26% (hamster)
+AP: 60.50% (horse)
+AP: 30.79% (lion)
+AP: 41.95% (lizard)
+AP: 32.71% (monkey)
+AP: 64.66% (motorcycle)
+AP: 50.71% (rabbit)
+AP: 46.84% (red_panda)
+AP: 51.10% (sheep)
+AP: 50.45% (snake)
+AP: 21.22% (squirrel)
+AP: 78.76% (tiger)
+AP: 73.94% (train)
+AP: 59.02% (turtle)
+AP: 54.73% (watercraft)
+AP: 24.52% (whale)
+AP: 80.84% (zebra)
+mAP: 55.38%
+Conventional ops:
+math_ops            1.537e+10
+read_ops            6.163e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0

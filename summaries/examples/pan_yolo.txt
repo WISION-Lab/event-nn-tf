@@ -1,0 +1,18 @@
+Event ops (standard):
+math_ops            2.888e+09
+read_ops            5.76e+07
+overhead_math_ops   3.848e+07
+overhead_read_ops   3.252e+07
+overhead_write_ops  3.252e+07
+Conventional ops:
+math_ops            8.105e+09
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops (memory loss):
+math_ops            1.646e+09
+read_ops            4.35e+07
+overhead_math_ops   3.251e+07
+overhead_read_ops   2.651e+07
+overhead_write_ops  2.651e+07

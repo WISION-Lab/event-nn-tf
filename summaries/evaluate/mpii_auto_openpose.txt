@@ -1,0 +1,64 @@
+Camera motion: major
+Event metrics:
+pck  0.8833
+Conventional ops:
+math_ops            1.381e+11
+read_ops            5.147e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            1.645e+10
+read_ops            4.972e+07
+overhead_math_ops   1.707e+08
+overhead_read_ops   1.538e+08
+overhead_write_ops  1.492e+08
+
+Camera motion: minor
+Event metrics:
+pck  0.9222
+Conventional ops:
+math_ops            1.381e+11
+read_ops            5.147e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            1.224e+10
+read_ops            4.961e+07
+overhead_math_ops   1.544e+08
+overhead_read_ops   1.39e+08
+overhead_write_ops  1.325e+08
+
+Camera motion: none
+Event metrics:
+pck  0.9446
+Conventional ops:
+math_ops            1.381e+11
+read_ops            5.147e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            7.994e+09
+read_ops            4.897e+07
+overhead_math_ops   9.841e+07
+overhead_read_ops   9.424e+07
+overhead_write_ops  8.309e+07
+
+Camera motion: all
+Event metrics:
+pck  0.9044
+Conventional ops:
+math_ops            1.381e+11
+read_ops            5.147e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            1.364e+10
+read_ops            4.952e+07
+overhead_math_ops   1.503e+08
+overhead_read_ops   1.368e+08
+overhead_write_ops  1.302e+08
+

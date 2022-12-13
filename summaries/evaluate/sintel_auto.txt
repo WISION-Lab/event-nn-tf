@@ -1,0 +1,14 @@
+Event metrics:
+epe  2.553
+Conventional ops:
+math_ops            8.261e+10
+read_ops            1.103e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            4.706e+10
+read_ops            8.646e+06
+overhead_math_ops   2.29e+08
+overhead_read_ops   2.065e+08
+overhead_write_ops  2.065e+08

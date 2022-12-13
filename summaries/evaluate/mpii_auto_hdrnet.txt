@@ -1,0 +1,112 @@
+Camera motion: major
+Event metrics:
+psnr  35.94
+Conventional (all):
+math_ops            4.543e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Conventional (excluding guidemap overhead):
+math_ops            3.921e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event (all):
+math_ops            8.184e+06
+read_ops            5.129e+04
+overhead_math_ops   1.092e+06
+overhead_read_ops   8.182e+05
+overhead_write_ops  8.182e+05
+Event (excluding guidemap overhead):
+math_ops            1.963e+06
+read_ops            5.128e+04
+overhead_math_ops   1.092e+06
+overhead_read_ops   8.182e+05
+overhead_write_ops  8.182e+05
+
+Camera motion: minor
+Event metrics:
+psnr_2  41.99
+Conventional (all):
+math_ops            4.543e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Conventional (excluding guidemap overhead):
+math_ops            3.921e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event (all):
+math_ops            7.541e+06
+read_ops            3.309e+04
+overhead_math_ops   8.891e+05
+overhead_read_ops   6.43e+05
+overhead_write_ops  6.43e+05
+Event (excluding guidemap overhead):
+math_ops            1.32e+06
+read_ops            3.307e+04
+overhead_math_ops   8.891e+05
+overhead_read_ops   6.43e+05
+overhead_write_ops  6.43e+05
+
+Camera motion: none
+Event metrics:
+psnr_4  45.53
+Conventional (all):
+math_ops            4.543e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Conventional (excluding guidemap overhead):
+math_ops            3.921e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event (all):
+math_ops            7.343e+06
+read_ops            2.993e+04
+overhead_math_ops   7.272e+05
+overhead_read_ops   5.14e+05
+overhead_write_ops  5.14e+05
+Event (excluding guidemap overhead):
+math_ops            1.123e+06
+read_ops            2.992e+04
+overhead_math_ops   7.272e+05
+overhead_read_ops   5.14e+05
+overhead_write_ops  5.14e+05
+
+Camera motion: all
+Event metrics:
+psnr_6  39.37
+Conventional (all):
+math_ops            4.543e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Conventional (excluding guidemap overhead):
+math_ops            3.921e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event (all):
+math_ops            7.862e+06
+read_ops            4.276e+04
+overhead_math_ops   9.664e+05
+overhead_read_ops   7.125e+05
+overhead_write_ops  7.125e+05
+Event (excluding guidemap overhead):
+math_ops            1.641e+06
+read_ops            4.275e+04
+overhead_math_ops   9.664e+05
+overhead_read_ops   7.125e+05
+overhead_write_ops  7.125e+05
+

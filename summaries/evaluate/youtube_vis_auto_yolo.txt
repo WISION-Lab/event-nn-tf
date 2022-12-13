@@ -1,0 +1,64 @@
+Conventional metrics:
+AP: 95.55% (aeroplane)
+AP: 91.95% (backpack)
+AP: 96.84% (bear)
+AP: 81.87% (bench)
+AP: 91.76% (bicycle)
+AP: 84.47% (bird)
+AP: 94.90% (boat)
+AP: 54.04% (book)
+AP: 20.00% (bottle)
+AP: 93.12% (bowl)
+AP: 97.49% (bus)
+AP: 96.71% (car)
+AP: 95.37% (cat)
+AP: 90.59% (cell_phone)
+AP: 98.92% (chair)
+AP: 94.75% (cow)
+AP: 90.19% (cup)
+AP: 96.82% (dog)
+AP: 92.53% (elephant)
+AP: 100.00% (frisbee)
+AP: 97.41% (giraffe)
+AP: 89.19% (handbag)
+AP: 95.48% (horse)
+AP: 1.16% (knife)
+AP: 68.86% (motorbike)
+AP: 59.09% (oven)
+AP: 50.00% (parking_meter)
+AP: 95.67% (person)
+AP: 0.00% (pottedplant)
+AP: 97.95% (remote)
+AP: 100.00% (sandwich)
+AP: 100.00% (scissors)
+AP: 47.14% (sheep)
+AP: 100.00% (sink)
+AP: 70.00% (skateboard)
+AP: 71.79% (sofa)
+AP: 82.77% (sports_ball)
+AP: 89.65% (stop_sign)
+AP: 11.51% (suitcase)
+AP: 89.72% (surfboard)
+AP: 12.50% (teddy_bear)
+AP: 96.93% (tie)
+AP: 100.00% (toilet)
+AP: 99.45% (toothbrush)
+AP: 92.87% (traffic_light)
+AP: 98.69% (train)
+AP: 81.88% (truck)
+AP: 94.92% (tvmonitor)
+AP: 100.00% (wine_glass)
+AP: 95.74% (zebra)
+mAP: 80.96%
+Conventional ops:
+math_ops            2.686e+10
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            1.092e+10
+read_ops            6.155e+07
+overhead_math_ops   1.24e+08
+overhead_read_ops   1.052e+08
+overhead_write_ops  1.052e+08

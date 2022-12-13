@@ -1,0 +1,22 @@
+Chunk shape: None
+Chunk channels: False
+Event metrics:
+pck_single_person  0.7579
+Event ops:
+math_ops            6.165e+09
+read_ops            4.434e+07
+overhead_math_ops   7.122e+07
+overhead_read_ops   6.535e+07
+overhead_write_ops  6.122e+07
+
+Chunk shape: (1, 1)
+Chunk channels: True
+Event metrics:
+pck_single_person  0.76
+Event ops:
+math_ops            1.782e+10
+read_ops            4.203e+07
+overhead_math_ops   6.216e+07
+overhead_read_ops   6.608e+07
+overhead_write_ops  6.153e+07
+

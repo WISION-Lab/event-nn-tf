@@ -1,0 +1,6 @@
+Event ops:
+math_ops            4.517e+09
+read_ops            2.775e+07
+overhead_math_ops   6.755e+07
+overhead_read_ops   5.637e+07
+overhead_write_ops  5.637e+07

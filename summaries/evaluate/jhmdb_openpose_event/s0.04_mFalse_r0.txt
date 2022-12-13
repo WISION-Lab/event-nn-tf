@@ -1,0 +1,8 @@
+Event metrics:
+pck_single_person  0.7637
+Event ops:
+math_ops            6.78e+09
+read_ops            4.525e+07
+overhead_math_ops   7.56e+07
+overhead_read_ops   6.898e+07
+overhead_write_ops  6.521e+07

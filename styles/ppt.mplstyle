@@ -1,0 +1,5 @@
+figure.autolayout: True
+font.family: sans-serif
+font.sans-serif: Roboto
+font.size: 16
+legend.fontsize: small

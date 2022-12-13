@@ -1,0 +1,305 @@
+
+
+####################################################################################################
+#                                                                                                  #
+# THE CURRENT VERSION WAS UPDATED WITH A VISUAL INTERFACE, INCLUDING MORE METRICS AND SUPPORTING   #
+# OTHER FILE FORMATS.                                                                              #
+#                                                                                                  #
+# PLEASE ACCESS IT ACCESSED AT:                                                                    #
+# https://github.com/rafaelpadilla/review_object_detection_metrics                                 #
+#                                                                                                  #
+# @Article{electronics10030279,                                                                    #
+#     author         = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto,    #
+#                       Sergio L. and da Silva, Eduardo A. B.},                                    #
+#     title          = {A Comparative Analysis of Object Detection Metrics with a Companion        #
+#                       Open-Source Toolkit},                                                      #
+#     journal        = {Electronics},                                                              #
+#     volume         = {10},                                                                       #
+#     year           = {2021},                                                                     #
+#     number         = {3},                                                                        #
+#     article-number = {279},                                                                      #
+#     url            = {https://www.mdpi.com/2079-9292/10/3/279},                                  #
+#     issn           = {2079-9292},                                                                #
+#     doi            = {10.3390/electronics10030279}, }                                            #
+#                                                                                                  #
+####################################################################################################
+
+
+AP: 96.23% (backpack)
+AP: 53.51% (baseball_bat)
+AP: 66.67% (bear)
+AP: 90.64% (bench)
+AP: 95.01% (bicycle)
+AP: 91.67% (bird)
+AP: 93.47% (boat)
+AP: 70.04% (book)
+AP: 99.05% (bottle)
+AP: 80.10% (bowl)
+AP: 100.00% (bus)
+AP: 97.94% (car)
+AP: 97.70% (chair)
+AP: 100.00% (clock)
+AP: 79.55% (cup)
+AP: 98.79% (diningtable)
+AP: 82.66% (dog)
+AP: 100.00% (donut)
+AP: 78.85% (elephant)
+AP: 66.61% (frisbee)
+AP: 70.47% (handbag)
+AP: 94.17% (horse)
+AP: 100.00% (keyboard)
+AP: 68.06% (motorbike)
+AP: 96.72% (person)
+AP: 97.54% (sheep)
+AP: 81.18% (skateboard)
+AP: 90.98% (skis)
+AP: 94.29% (snowboard)
+AP: 29.89% (sofa)
+AP: 93.97% (sports_ball)
+AP: 78.57% (suitcase)
+AP: 93.44% (surfboard)
+AP: 92.26% (tennis_racket)
+AP: 99.07% (truck)
+AP: 91.67% (umbrella)
+mAP: 86.41%
+
+
+####################################################################################################
+#                                                                                                  #
+# THE CURRENT VERSION WAS UPDATED WITH A VISUAL INTERFACE, INCLUDING MORE METRICS AND SUPPORTING   #
+# OTHER FILE FORMATS.                                                                              #
+#                                                                                                  #
+# PLEASE ACCESS IT ACCESSED AT:                                                                    #
+# https://github.com/rafaelpadilla/review_object_detection_metrics                                 #
+#                                                                                                  #
+# @Article{electronics10030279,                                                                    #
+#     author         = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto,    #
+#                       Sergio L. and da Silva, Eduardo A. B.},                                    #
+#     title          = {A Comparative Analysis of Object Detection Metrics with a Companion        #
+#                       Open-Source Toolkit},                                                      #
+#     journal        = {Electronics},                                                              #
+#     volume         = {10},                                                                       #
+#     year           = {2021},                                                                     #
+#     number         = {3},                                                                        #
+#     article-number = {279},                                                                      #
+#     url            = {https://www.mdpi.com/2079-9292/10/3/279},                                  #
+#     issn           = {2079-9292},                                                                #
+#     doi            = {10.3390/electronics10030279}, }                                            #
+#                                                                                                  #
+####################################################################################################
+
+
+AP: 68.90% (apple)
+AP: 93.71% (backpack)
+AP: 28.43% (baseball_bat)
+AP: 96.67% (baseball_glove)
+AP: 97.39% (bicycle)
+AP: 98.04% (boat)
+AP: 87.70% (bus)
+AP: 99.08% (car)
+AP: 99.71% (chair)
+AP: 83.65% (diningtable)
+AP: 40.00% (dog)
+AP: 50.00% (frisbee)
+AP: 75.42% (handbag)
+AP: 96.83% (horse)
+AP: 100.00% (microwave)
+AP: 96.78% (person)
+AP: 100.00% (pottedplant)
+AP: 0.83% (refrigerator)
+AP: 100.00% (remote)
+AP: 41.36% (sink)
+AP: 92.66% (skis)
+AP: 95.37% (sports_ball)
+AP: 99.45% (tennis_racket)
+AP: 25.00% (tie)
+mAP: 77.79%
+
+
+####################################################################################################
+#                                                                                                  #
+# THE CURRENT VERSION WAS UPDATED WITH A VISUAL INTERFACE, INCLUDING MORE METRICS AND SUPPORTING   #
+# OTHER FILE FORMATS.                                                                              #
+#                                                                                                  #
+# PLEASE ACCESS IT ACCESSED AT:                                                                    #
+# https://github.com/rafaelpadilla/review_object_detection_metrics                                 #
+#                                                                                                  #
+# @Article{electronics10030279,                                                                    #
+#     author         = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto,    #
+#                       Sergio L. and da Silva, Eduardo A. B.},                                    #
+#     title          = {A Comparative Analysis of Object Detection Metrics with a Companion        #
+#                       Open-Source Toolkit},                                                      #
+#     journal        = {Electronics},                                                              #
+#     volume         = {10},                                                                       #
+#     year           = {2021},                                                                     #
+#     number         = {3},                                                                        #
+#     article-number = {279},                                                                      #
+#     url            = {https://www.mdpi.com/2079-9292/10/3/279},                                  #
+#     issn           = {2079-9292},                                                                #
+#     doi            = {10.3390/electronics10030279}, }                                            #
+#                                                                                                  #
+####################################################################################################
+
+
+AP: 100.00% (banana)
+AP: 90.00% (bench)
+AP: 100.00% (book)
+AP: 99.74% (bottle)
+AP: 18.57% (bowl)
+AP: 99.97% (car)
+AP: 17.00% (cell_phone)
+AP: 97.12% (chair)
+AP: 3.44% (cup)
+AP: 99.97% (dog)
+AP: 100.00% (frisbee)
+AP: 100.00% (handbag)
+AP: 100.00% (laptop)
+AP: 97.71% (person)
+AP: 96.84% (pottedplant)
+AP: 15.54% (refrigerator)
+AP: 70.00% (remote)
+AP: 79.45% (sports_ball)
+AP: 6.25% (suitcase)
+AP: 51.50% (surfboard)
+AP: 93.58% (tennis_racket)
+AP: 65.64% (tie)
+mAP: 72.83%
+
+
+####################################################################################################
+#                                                                                                  #
+# THE CURRENT VERSION WAS UPDATED WITH A VISUAL INTERFACE, INCLUDING MORE METRICS AND SUPPORTING   #
+# OTHER FILE FORMATS.                                                                              #
+#                                                                                                  #
+# PLEASE ACCESS IT ACCESSED AT:                                                                    #
+# https://github.com/rafaelpadilla/review_object_detection_metrics                                 #
+#                                                                                                  #
+# @Article{electronics10030279,                                                                    #
+#     author         = {Padilla, Rafael and Passos, Wesley L. and Dias, Thadeu L. B. and Netto,    #
+#                       Sergio L. and da Silva, Eduardo A. B.},                                    #
+#     title          = {A Comparative Analysis of Object Detection Metrics with a Companion        #
+#                       Open-Source Toolkit},                                                      #
+#     journal        = {Electronics},                                                              #
+#     volume         = {10},                                                                       #
+#     year           = {2021},                                                                     #
+#     number         = {3},                                                                        #
+#     article-number = {279},                                                                      #
+#     url            = {https://www.mdpi.com/2079-9292/10/3/279},                                  #
+#     issn           = {2079-9292},                                                                #
+#     doi            = {10.3390/electronics10030279}, }                                            #
+#                                                                                                  #
+####################################################################################################
+
+
+AP: 68.90% (apple)
+AP: 94.89% (backpack)
+AP: 100.00% (banana)
+AP: 48.36% (baseball_bat)
+AP: 96.67% (baseball_glove)
+AP: 66.67% (bear)
+AP: 88.81% (bench)
+AP: 95.84% (bicycle)
+AP: 91.67% (bird)
+AP: 93.44% (boat)
+AP: 93.93% (book)
+AP: 99.04% (bottle)
+AP: 76.68% (bowl)
+AP: 99.41% (bus)
+AP: 99.40% (car)
+AP: 17.00% (cell_phone)
+AP: 99.08% (chair)
+AP: 100.00% (clock)
+AP: 54.20% (cup)
+AP: 86.14% (diningtable)
+AP: 88.76% (dog)
+AP: 100.00% (donut)
+AP: 78.85% (elephant)
+AP: 65.17% (frisbee)
+AP: 71.50% (handbag)
+AP: 93.91% (horse)
+AP: 100.00% (keyboard)
+AP: 100.00% (laptop)
+AP: 100.00% (microwave)
+AP: 68.06% (motorbike)
+AP: 96.88% (person)
+AP: 98.13% (pottedplant)
+AP: 13.32% (refrigerator)
+AP: 70.67% (remote)
+AP: 97.54% (sheep)
+AP: 41.36% (sink)
+AP: 81.16% (skateboard)
+AP: 90.21% (skis)
+AP: 94.29% (snowboard)
+AP: 29.89% (sofa)
+AP: 93.05% (sports_ball)
+AP: 71.23% (suitcase)
+AP: 76.66% (surfboard)
+AP: 93.93% (tennis_racket)
+AP: 64.03% (tie)
+AP: 99.07% (truck)
+AP: 91.67% (umbrella)
+mAP: 81.69%
+Camera motion: major
+Event metrics:
+Event metrics:
+Conventional ops:
+math_ops            2.686e+10
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            1.015e+10
+read_ops            5.994e+07
+overhead_math_ops   1.174e+08
+overhead_read_ops   9.944e+07
+overhead_write_ops  9.944e+07
+
+Camera motion: minor
+Event metrics:
+Event metrics:
+Conventional ops:
+math_ops            2.686e+10
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            6.799e+09
+read_ops            5.982e+07
+overhead_math_ops   1.139e+08
+overhead_read_ops   9.29e+07
+overhead_write_ops  9.29e+07
+
+Camera motion: none
+Event metrics:
+Event metrics:
+Conventional ops:
+math_ops            2.686e+10
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            4.045e+09
+read_ops            5.701e+07
+overhead_math_ops   9.299e+07
+overhead_read_ops   7.409e+07
+overhead_write_ops  7.409e+07
+
+Camera motion: all
+Event metrics:
+Event metrics:
+Conventional ops:
+math_ops            2.686e+10
+read_ops            6.19e+07
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+Event ops:
+math_ops            8.06e+09
+read_ops            5.922e+07
+overhead_math_ops   1.109e+08
+overhead_read_ops   9.214e+07
+overhead_write_ops  9.214e+07
+

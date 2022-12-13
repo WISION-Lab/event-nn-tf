@@ -1,0 +1,18 @@
+Event ops (all):
+math_ops            2.251e+06
+read_ops            1.742e+04
+overhead_math_ops   7.255e+05
+overhead_read_ops   5.028e+05
+overhead_write_ops  5.028e+05
+Event ops (excluding guidemap overhead):
+math_ops            2.809e+05
+read_ops            1.741e+04
+overhead_math_ops   7.255e+05
+overhead_read_ops   5.028e+05
+overhead_write_ops  5.028e+05
+Conventional ops:
+math_ops            4.118e+07
+read_ops            4.811e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0

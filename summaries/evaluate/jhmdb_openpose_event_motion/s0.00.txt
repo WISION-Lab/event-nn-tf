@@ -1,0 +1,2 @@
+Mean predicted motion: 10.28
+Mean actual motion: 2.871

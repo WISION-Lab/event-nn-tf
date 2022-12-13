@@ -1,0 +1,15 @@
+# Sorted in ascending order
+__pycache__
+.DS_Store
+.idea
+*.h5
+*.jpg
+animations
+detection
+inputs
+operations
+outputs
+sigma-delta
+stderr
+tensorboard
+weights

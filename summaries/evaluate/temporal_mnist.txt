@@ -1,0 +1,148 @@
+Conventional metrics:
+categorical_accuracy  0.9777
+Conventional ops:
+math_ops            1.992e+05
+read_ops            1.992e+05
+overhead_math_ops   0
+overhead_read_ops   0
+overhead_write_ops  0
+
+Threshold: 10^-1.5
+Event metrics:
+categorical_accuracy  0.9779
+Event ops:
+math_ops            5.373e+04
+read_ops            5.373e+04
+overhead_math_ops   3962
+overhead_read_ops   3170
+overhead_write_ops  3170
+
+Threshold: 10^-1.4
+Event metrics:
+categorical_accuracy  0.9779
+Event ops:
+math_ops            5.27e+04
+read_ops            5.27e+04
+overhead_math_ops   3962
+overhead_read_ops   3164
+overhead_write_ops  3164
+
+Threshold: 10^-1.3
+Event metrics:
+categorical_accuracy  0.9775
+Event ops:
+math_ops            5.161e+04
+read_ops            5.161e+04
+overhead_math_ops   3962
+overhead_read_ops   3156
+overhead_write_ops  3156
+
+Threshold: 10^-1.2
+Event metrics:
+categorical_accuracy  0.9769
+Event ops:
+math_ops            4.991e+04
+read_ops            4.991e+04
+overhead_math_ops   3962
+overhead_read_ops   3145
+overhead_write_ops  3145
+
+Threshold: 10^-1.1
+Event metrics:
+categorical_accuracy  0.977
+Event ops:
+math_ops            4.81e+04
+read_ops            4.81e+04
+overhead_math_ops   3962
+overhead_read_ops   3133
+overhead_write_ops  3133
+
+Threshold: 10^-1
+Event metrics:
+categorical_accuracy  0.977
+Event ops:
+math_ops            4.595e+04
+read_ops            4.595e+04
+overhead_math_ops   3962
+overhead_read_ops   3118
+overhead_write_ops  3118
+
+Threshold: 10^-0.9
+Event metrics:
+categorical_accuracy  0.976
+Event ops:
+math_ops            4.324e+04
+read_ops            4.324e+04
+overhead_math_ops   3962
+overhead_read_ops   3101
+overhead_write_ops  3101
+
+Threshold: 10^-0.8
+Event metrics:
+categorical_accuracy  0.9751
+Event ops:
+math_ops            4.03e+04
+read_ops            4.03e+04
+overhead_math_ops   3962
+overhead_read_ops   3080
+overhead_write_ops  3080
+
+Threshold: 10^-0.7
+Event metrics:
+categorical_accuracy  0.9751
+Event ops:
+math_ops            3.666e+04
+read_ops            3.666e+04
+overhead_math_ops   3962
+overhead_read_ops   3055
+overhead_write_ops  3055
+
+Threshold: 10^-0.6
+Event metrics:
+categorical_accuracy  0.9735
+Event ops:
+math_ops            3.246e+04
+read_ops            3.246e+04
+overhead_math_ops   3962
+overhead_read_ops   3025
+overhead_write_ops  3025
+
+Threshold: 10^-0.5
+Event metrics:
+categorical_accuracy  0.9684
+Event ops:
+math_ops            2.806e+04
+read_ops            2.806e+04
+overhead_math_ops   3962
+overhead_read_ops   2992
+overhead_write_ops  2992
+
+Threshold: 10^-0.4
+Event metrics:
+categorical_accuracy  0.9502
+Event ops:
+math_ops            2.297e+04
+read_ops            2.297e+04
+overhead_math_ops   3962
+overhead_read_ops   2952
+overhead_write_ops  2952
+
+Threshold: 10^-0.3
+Event metrics:
+categorical_accuracy  0.9046
+Event ops:
+math_ops            1.746e+04
+read_ops            1.746e+04
+overhead_math_ops   3955
+overhead_read_ops   2905
+overhead_write_ops  2905
+
+Threshold: 10^-0.2
+Event metrics:
+categorical_accuracy  0.8875
+Event ops:
+math_ops            1.375e+04
+read_ops            1.375e+04
+overhead_math_ops   3955
+overhead_read_ops   2873
+overhead_write_ops  2873
